@@ -1,4 +1,4 @@
-# AtliQ_Hosptitality_Project_PowerBI
+# AtliQ Hosptitality Project PowerBI
 
 # What is this all about?
 This project analyses the data of 8 different hotel brands having 4 different room types in 4 different locations with 8 booking websites. 
