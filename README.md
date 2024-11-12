@@ -28,14 +28,30 @@ In this we have analysed the expected revenue prior cancellation refund.
 
 ## RG Matrix
 
-In this we have analysed all the parameters affecting each other 
+In this we have analysed all the parameters affecting each other with Reveneu realised to generated ratio. I have applied gradual formatting for the tables. Those in bright blue are the highest value whereas yellow is the lowest values. This visual helps to easily identify the low performing hotels with R/G as metric.
 
 ![4  RG Matrix](https://github.com/user-attachments/assets/a3421ba8-1373-4d21-a57e-07355ff410cb)
 
+## Ratings Matrix
+
+In this we have analysed all the parameters affecting each other with ratings as metric. Here we assume that ratings are the quantified metric measuring customer satisfaction. Through this we can measure customer service quality of the hotels.
+
 ![5  Ratings Matrix](https://github.com/user-attachments/assets/632d00ef-2407-4243-b411-8d2016b9782a)
+
+# Booking Platform
+
+In this we have analysed how different booking platforms bring revenue to the hotels, rooms and cities. It is the external factor which the hotel owners cant have control on.
 
 ![6  Booking Platform](https://github.com/user-attachments/assets/a6302013-b144-4b57-8442-ad8080f32e50)
 
+# Top and Bottom 5 R/G values
+
+In this we have analysed the top and bottom 5 R/G value hotels. You can choose the slicer settings to choose the best and the worst in a particular hotel brand, city, booking platform or room class.
+
 ![7  Top and bottom 5 RG](https://github.com/user-attachments/assets/d0d82846-0eef-4a74-97c8-aebc313c1c5b)
+
+# Top and Bottom 5 Ratings
+
+In this we have analysed the top and bottom rated hotels. 4 tables have been made in it comparing R/G and ratings. You can choose the slicer settings to choose the best and the worst in a particular hotel brand, city, booking platform or room class.
 
 ![8  Customer Satisfaction](https://github.com/user-attachments/assets/f58810c2-562a-4c31-89d2-15601fdcfb74)
