@@ -1,5 +1,15 @@
 # AtliQ_Hosptitality_Project_PowerBI
 
+# What is this all about?
+This project analyses the data of 8 different hotel brands having 4 different room types in 4 different locations with 8 booking websites. 
+
+# Objectives
+
+1. Give the business insights on how to improve revenue and reduce loss.
+2. Give future insights on expansion and consolidation
+
+# 1. Revenue Realised
+
 ![1  Revenue Realised](https://github.com/user-attachments/assets/7ac79380-9686-412d-b408-76b45537eddd)
 
 ![2  Loss realised](https://github.com/user-attachments/assets/bd346b40-05c9-4d86-8aab-c8861dbe8ce5)
